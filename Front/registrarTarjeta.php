@@ -8,7 +8,9 @@
 </head>
     <body>
 
-        <form id="formulario01" method="POST" action="../crear_tarjeta.php" onsubmit="iralmenu()">
+        <h1>Registre su tarjeta en el sistema</h1>
+
+        <form id="formulario01" method="POST" action="../Back/crear_tarjeta.php" onsubmit="iralmenu()">
        
                
                     <label id="text">Numero: </label>
